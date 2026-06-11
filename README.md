@@ -12,7 +12,7 @@ B.Sc. in Data Science, International University - VNU HCMC (2025)
 
 🩹 [Automated Bio-Printable Wound Patch Generation](https://github.com/DSTai/Automated-Bio-Printable-Wound-Patch-Generation)
 - Dice 0.921
-- BME11 Accepted
+- Accepted at BME11 2025
 
 📚 [Medical Research Assistant (RAG)](https://github.com/DSTai/medical-rag-assistant)
 - FAISS + Gemini + Cross Encoder
@@ -20,15 +20,15 @@ B.Sc. in Data Science, International University - VNU HCMC (2025)
 
 ## Publications
 
-📖 CITA2025 Springer Book Chapter (Scopus Indexed)
+📖 Tran, H.D.T., Nguyen, K.T., Jayatilake, S., Van Long Ho, Nguyen, T.T.Q. (2026). A Hybrid Deep Learning Approach to Stress Detection: Integrating CNN-LSTM with Reinforcement Learning and Active Learning. In: Nguyen, N.T., Huynh, CP., Nguyen, T.T., Le-Khac, NA., Seng, S., Nguyen, QV. (eds) The 14th Conference on Information Technology and its Applications. CITA 2025. Lecture Notes in Networks and Systems, vol 1581. Springer, Cham. 
 - https://link.springer.com/chapter/10.1007/978-3-032-00972-2_24
 
-📖 BME11 Accepted Paper
+📖 BME11  (Accepted)
 - To appear in Springer Proceedings & Scopus
 
 ## Stack
 
-Python • TensorFlow • PyTorch • OpenCV • LangChain • FAISS • Docker
+Python • TensorFlow • PyTorch • OpenCV • LangChain • FAISS • Docker • Streamlit • AWS • SQL
 
 🌐 Portfolio: [https://dstai.github.io](https://dstai.github.io/portfolio-thdtai/)
 💼 LinkedIn: https://www.linkedin.com/in/thdtai/
