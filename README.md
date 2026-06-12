@@ -30,6 +30,7 @@ B.Sc. in Data Science, International University - VNU HCMC (2025)
 
 Python • TensorFlow • PyTorch • OpenCV • LangChain • FAISS • Docker • Streamlit • AWS • SQL
 
+## Contact
 🌐 Portfolio: [https://dstai.github.io](https://dstai.github.io/portfolio-thdtai/)
 💼 LinkedIn: https://www.linkedin.com/in/thdtai/
 
